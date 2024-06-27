@@ -1,0 +1,17 @@
+{
+  "url": "https://log.finalsurge.com/",
+  "email": "emailtest@gmai.com",
+  "email2": "test123@gmail.com",
+  "password": "Qwerty12345!",
+
+  "messages": {
+    "accountLogin": "Welcome,",
+    "forgotPassword": "Can't sign in?",
+    "passwordReset": "Password Reset: An email has been sent to you with further instructions on resetting your password.",
+    "accountLogout": "You have been successfully logged out of the system.",
+    "accountNonExisting": "Invalid login credentials. Please try again.",
+    "errorInvalidEmailField": "Please enter a valid email address.",
+    "errorEmptyEmailField": "Please enter your e-mail address.",
+    "errorPasswordEmailField": "Please enter a password."
+  }
+}
